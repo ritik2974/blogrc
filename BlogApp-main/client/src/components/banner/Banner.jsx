@@ -25,8 +25,8 @@ const banner=()=>{
     return(
     
         <Image>
-            <Heading>BLOG</Heading>
-            <SubHeading>SOMETHING</SubHeading>
+            <Heading>BlogRC</Heading>
+            <SubHeading> Share Something New</SubHeading>
         </Image>
 
 
